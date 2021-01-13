@@ -22,7 +22,7 @@ echo $z-$x; echo "<br />";
 echo $y*$z; echo "<br />";
 $a= $y*$z; 
 
-echo $a/$z ; echo "<br />";
+echo "ผลหาร   = ",$a/$z ; echo "<br />";
 
 
 ?>
